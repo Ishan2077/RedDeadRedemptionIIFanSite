@@ -1,0 +1,28 @@
+body{
+	background: url("/G:/HTML/Images/linocut.jpg") no-repeat;
+	background-position: bottom 1% right 1% ;
+	background-attachment: fixed;
+	/*color: white;
+	font-size: 13px; */
+}
+
+h1{
+	font-family: "RDR Lino";
+	color: red;
+}
+
+p{
+	font-family: "Hapna Slab Serif DemiBold";
+	color: white;
+	font-size: 14;
+}
+
+form{
+	font-family: "Hapna Slab Serif DemiBold";
+	color: white;
+	font-size: 14;
+}
+
+/*img{
+	border-radius: 8px;
+}

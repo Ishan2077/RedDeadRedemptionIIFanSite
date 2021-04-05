@@ -1,0 +1,11 @@
+#unorder{
+	list-style-type: circle;
+	background: red;
+	font-family: "RDR Lino";
+	color: teal;
+	font-size: 20px;
+}
+#others{
+	font-family: "RDR Lino";
+	color: red;
+}

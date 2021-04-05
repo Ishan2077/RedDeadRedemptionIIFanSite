@@ -1,0 +1,25 @@
+body{
+	 	 background-color: black;
+	 color: white;
+	}
+
+
+
+h2{
+	font-family:"RDR Lino";
+	color:red;
+	border:transparent;
+}
+
+p{
+	font-family:"Hapna Slab Serif DemiBold";
+	font-size:16px;
+	color:lavender;
+}
+
+h3{
+	font-family:"RDR Lino";
+	font-size: 18px;
+	color:tomato;
+	border:transparent;
+}

@@ -1,0 +1,33 @@
+body{
+	background-color: black;
+	background-image: url("/G:/HTML/Images/Logos/2.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+
+}
+h1{
+	background-color: magenta;
+	font-size: 20;
+	border-style: dotted;
+	border-width: 12px 10px 20px 22px;
+	border-color: red pink blue violet;
+	border-image: linear-gradient(pink,orange) 100;
+
+}
+
+#para{
+	background-color: magenta;
+	font-size: 34;
+	border-style: solid;
+	border-width:  12px 10px 13px 14px;
+	border-color: blue;
+	background-clip: padding-box;
+	
+}
+}
+
+.jyoti{
+	color: pink;
+	border: dotted;
+}

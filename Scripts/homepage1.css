@@ -1,0 +1,116 @@
+body{
+	background-color:black;
+	color:lightgoldenrodyellow ;
+	
+
+}
+
+p{
+	font-family:"Hapna Slab Serif DemiBold";
+	color: white;
+	font-size:18px;
+}
+
+#heading{
+	font-family:"RDR Lino";
+	color:gold;
+	font-size:28px;
+}
+
+h2{
+	font-family:"RDR Lino";
+	color:red;
+}
+
+#paragraph1{
+	font-family:"Hapna Slab Serif DemiBold";
+	color:cornsilk;
+	border:solid;
+}
+
+#paragraph2{
+	font-family:"RDR Lino";
+	color:red;
+	font-size:20px;
+}
+
+#paragraph3{
+	font-family:"Hapna Slab Serif DemiBold";
+	color:thistle;
+	font-size:21px;
+	border:solid;
+}
+
+#movingline{
+	font-family:"Hapna Slab Serif DemiBold";
+	color:coral;
+	font-size:17px;
+}
+
+#legal{
+	font-family:"Hapna Slab Serif DemiBold";
+	color:moccasin;
+	font-size:16px;
+	border:solid;
+}
+
+#legal1{
+	font-family:"Redemption";
+	color:red;
+	font-size:26px;
+}
+
+#copyright{
+	font-family:"Hapna Slab Serif DemiBold";
+	color:white;
+	font-size:10px;
+}
+
+h3{
+	font-family:"RDR Lino";
+	color:white;
+	font-size: 19px;
+}
+
+#figure{
+	font-family:"RDR Lino";
+	color:khaki;
+	font-size:14px;
+}
+
+#image1{
+	background-image: url(G:\HTML\Images\PopUp_Websites\3R.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+
+}
+
+img{
+	border-radius: 8px;
+}
+
+#review{
+	color: yellow;
+}
+
+/* UNVISITED LINK */
+a:link{
+	background-color: black;  
+}
+
+/* visited link */
+a:visited {
+  color: red;
+}
+
+/* mouse over link */
+a:hover {
+  color: violet;
+}
+
+/* selected link */
+a:active {
+  color: yellow;
+}
+
