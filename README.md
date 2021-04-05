@@ -18,4 +18,4 @@ Red Dead Redemption II is undoubtedly one of the best games ever made. The story
 
 -- Using these files is extremely simple. You need an IDE to view the code and edit it as per your choice. Prefer using the Sublime Text Editor, VS Code or any IDE of your choice!
 
-**PLEASE NOTE that this is an Unofficial website of Red Dead Redemption II. I, in no way own any rights to the content(audio, video, text). All rights belong to Rockstar Games and their parent company, Take Two Interactive, 622, Braodway, NYC.
+**PLEASE NOTE that this is an Unofficial website of Red Dead Redemption II. I, in no way own any rights to the content(audio, video, text). All rights belong to Rockstar Games and their parent company, Take Two Interactive, 622, Broadway, NYC.**
