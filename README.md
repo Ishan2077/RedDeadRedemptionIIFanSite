@@ -2,13 +2,13 @@
 Featuring the best-in-class Red Dead Redemption II content.
 
 
-From Wikipidea: "Red Dead Redemption 2 (stylized as Red Dead Redemption II) is a 2018 action-adventure game developed and published by Rockstar Games. 
+From Wikipidea: "_Red Dead Redemption 2 (stylized as Red Dead Redemption II) is a 2018 action-adventure game developed and published by Rockstar Games. 
 The game is the third entry in the Red Dead series and is a prequel to the 2010 game Red Dead Redemption. 
 The story is set in 1899 in a fictionalized representation of the Western, Midwestern, and Southern United States and follows outlaw Arthur Morgan, a member of the Van der Linde gang. 
 Arthur must deal with the decline of the Wild West whilst attempting to survive against government forces, rival gangs, and other adversaries. 
 The story also follows fellow gang member John Marston, the protagonist of Red Dead Redemption.
 The game is presented through both first and third-person perspectives, and the player may freely roam in its interactive open world. 
-Gameplay elements include shootouts, heists, hunting, horseback riding, interacting with non-player characters, and maintaining the character's honor rating through moral choices and deeds. A bounty system similar to the "wanted" system from the Grand Theft Auto franchise governs the response of law enforcement and bounty hunters to crimes committed by the player."
+Gameplay elements include shootouts, heists, hunting, horseback riding, interacting with non-player characters, and maintaining the character's honor rating through moral choices and deeds. A bounty system similar to the "wanted" system from the Grand Theft Auto franchise governs the response of law enforcement and bounty hunters to crimes committed by the player._"
 
 --
 
